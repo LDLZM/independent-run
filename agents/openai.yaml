@@ -1,0 +1,4 @@
+interface:
+  display_name: "独立后台运行"
+  short_description: "让程序、计算任务和服务脱离聊天应用运行，配置日志、状态查询与停止方式"
+  default_prompt: "使用 $independent-run 独立后台启动这个程序或服务，让它在关闭 ChatGPT 后继续运行，并提供日志、状态检查和停止方法。"
